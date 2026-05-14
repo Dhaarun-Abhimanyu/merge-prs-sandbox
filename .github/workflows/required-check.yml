@@ -5,11 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "this one we will mark as required"
-name: required-check
-on: [pull_request]
-jobs:
-  required:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "this one we will mark as required"
 
