@@ -1,1 +1,2 @@
 another test
+case 1 - both pass with brackets
