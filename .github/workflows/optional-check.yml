@@ -6,6 +6,6 @@ jobs:
     steps:
       - run: |
           echo "this one we will leave non-required"
-          # toggle this between 'exit 0' and 'exit 1' per PR to make it pass/fail
-          exit 0
+          # toggle this between 'exit 1' and 'exit 1' per PR to make it pass/fail
+          exit 1
 
