@@ -1,0 +1,1 @@
+merge-method test: Two methods (merge disabled, squash+rebase)
