@@ -1,2 +1,3 @@
 merge-method test: One method (squash only)
 commit 2 on one
+commit 3 on one
