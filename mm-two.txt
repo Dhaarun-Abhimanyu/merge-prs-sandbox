@@ -1,1 +1,2 @@
 merge-method test: Two methods (merge disabled, squash+rebase)
+commit 2 on two
