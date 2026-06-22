@@ -1,0 +1,1 @@
+merge-method test: Zero methods enabled (impossible on GitHub)
