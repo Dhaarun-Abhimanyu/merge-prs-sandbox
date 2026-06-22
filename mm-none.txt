@@ -1,2 +1,3 @@
 merge-method test: Zero methods enabled (impossible on GitHub)
 commit 2 on none
+commit 3 on none
