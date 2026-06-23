@@ -4,4 +4,6 @@ jobs:
   required:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "this one we will mark as required"
+      - run: |
+          echo "required check intentionally failing for BLOCKED retest [DEFAULT-91]"
+          exit 1
